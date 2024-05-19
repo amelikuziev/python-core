@@ -1,1 +1,1 @@
-print(14)
+print("savol")
